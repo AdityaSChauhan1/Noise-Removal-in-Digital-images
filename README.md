@@ -3,7 +3,6 @@
 A Python project for **image restoration and analysis** that applies advanced spatial-domain filters to noisy images and visualizes histograms for better insight.  
 This project was developed during my internship at **DRDO DEAL** as part of noise reduction in satellite imagery.
 
----
 
 ## 🚀 Features
 
@@ -23,7 +22,6 @@ This project was developed during my internship at **DRDO DEAL** as part of nois
   - Efficient matrix operations using **NumPy** and **SciPy**
   - Modular and extensible filter architecture
 
----
 
 ## 🛠️ Tech Stack
 
@@ -36,22 +34,25 @@ This project was developed during my internship at **DRDO DEAL** as part of nois
   - Noise models (Gaussian, Salt-and-Pepper, etc.)
   - Image preprocessing & restoration
 
----
-
-
----
 
 ## ⚙️ Installation & Usage
 
 1. Clone this repository:
-   ```bash
+   ```
    git clone https://github.com/your-username/image-noise-removal.git
    cd image-noise-removal
 
 2. Install dependencies:
+   ```
    pip install numpy scipy PyQt5
 
-3. Run the GUI:
+4. Run the GUI:
+   ```
    python main.py
 
-   
+👤 Author
+
+Aditya S Chauhan
+
+[LinkedIn](https://www.linkedin.com/in/aditya-s-chauhan-25162024a/)
+[LeetCode](https://leetcode.com/u/adityachauhansingh000/)
